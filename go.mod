@@ -1,4 +1,4 @@
-module github.com/AndroidStudyOpenSource/mpesa-api-go
+module github.com/tanlio/mpesa-api-go
 
 
-go 1.13
+go 1.16
