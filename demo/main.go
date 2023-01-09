@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"github.com/AndroidStudyOpenSource/mpesa-api-go"
+	"github.com/tanlio/mpesa-api-go"
 )
 
 const (
