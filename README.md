@@ -7,7 +7,7 @@ The wrapper provides convenient access to the [Safaricom MPESA Daraja API](https
 You can install the package by running:
 
 ```
-go get github.com/AndroidStudyOpenSource/mpesa-api-go
+go get github.com/tanlio/mpesa-api-go
 ```
 
 ## Usage
