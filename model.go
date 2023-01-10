@@ -60,6 +60,7 @@ type Express struct {
 	CallBackURL       string
 	AccountReference  string
 	TransactionDesc   string
+	CheckoutRequestID string
 }
 
 var defaultTransactionType = "CustomerPayBillOnline"
